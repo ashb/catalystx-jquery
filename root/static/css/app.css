@@ -1,0 +1,16 @@
+* {
+  color: black;
+  background-color: white;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: #ef843c;
+}
+
+h1 {
+  font-family: Georgia, Times, Serif;
+}

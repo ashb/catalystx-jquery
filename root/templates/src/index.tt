@@ -1,0 +1,6 @@
+[% js_files = ['demo.js'] -%]
+<p>Some content</p>
+
+<div id="html_content"><a href="[% c.uri_for('/ajax_hmtl') %]">Click to replace me with /ajax_html</a></div>
+
+<div id="json_content"><a href="[% c.uri_for('/ajax_json') %]">Click to replace me with /ajax_json</a></div>

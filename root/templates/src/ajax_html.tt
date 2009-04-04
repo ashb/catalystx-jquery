@@ -1,0 +1,2 @@
+<p>Foo is [% foo %].</p>
+<p>Baz is <b>[% baz.join(', ') %]</b>.</p>
