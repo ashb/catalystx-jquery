@@ -1,6 +1,4 @@
-# IMPORTANT: if you delete this file your app will not work as
-# expected.  you have been warned
-use inc::Module::Install;
+use inc::Module::Install 0.81;
 
 name 'CatalystX-jQuery';
 all_from 'lib/CatalystX/jQuery.pm';
